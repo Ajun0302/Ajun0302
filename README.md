@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ajun0302
 - 👀 I’m interested in Meachine Learning , DeepLearning and JavaWeb
-- 🌱 I’m currently learning Artificial Intelligent
+- 🌱 I’m currently learning Artificial Intelligence
 - 📫 You can email me via 3590824216@qq.com
 
 <!---
